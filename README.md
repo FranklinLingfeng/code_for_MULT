@@ -1,9 +1,9 @@
 # Exploring Homogeneous and Heterogeneous Consistent Label Associations for Unsupervised Visible-Infrared Person ReID
-Pytorch Code of MULT method for Cross-Modality Person Re-Identification (Visible Thermal Re-ID) on RegDB dataset [1] and SYSU-MM01 dataset [2]. 
-
 <p align="center">
 <img src="figs/method_mult.png" width="90%">
 </p>
+
+Pytorch Code of MULT method for Cross-Modality Person Re-Identification (Visible Thermal Re-ID) on RegDB dataset [1] and SYSU-MM01 dataset [2]. 
 
 We adopt the two-stream network structure introduced in [3]. ResNet50 is adopted as the backbone.
 
