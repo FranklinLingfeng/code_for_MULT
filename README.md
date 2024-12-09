@@ -4,10 +4,15 @@
 </p>
 
 Pytorch Code for the **{IJCV2024}** paper:
+
 [**{Exploring Homogeneous and Heterogeneous Consistent Label Associations for Unsupervised Visible-Infrared Person ReID}**
+
 Lingfeng He, De Cheng, Nannan Wang, Xinbo Gao
+
 International Journal of Computer Vision (IJCV), 2024]
+
 for Cross-Modality Person Re-Identification (Visible Thermal Re-ID) on RegDB dataset [1] and SYSU-MM01 dataset [2]. 
+
 [arxiv](https://arxiv.org/abs/2402.00672v4)
 
 We adopt the two-stream network structure introduced in [3]. ResNet50 is adopted as the backbone.
